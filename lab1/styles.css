@@ -1,5 +1,23 @@
 body{
-    background-color: darkolivegreen;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  
+  position: static;
+  width: 1282px;
+  height: 1489px;
+  left: 0px;
+  top: 30px;
+  
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.22) 7.62%, rgba(0, 225, 198, 0.06) 25.5%, #FFFFFF 70.92%);
+  
+  
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+  margin: 10px 0px;
 }
 
 .col-1-3 {

@@ -1,0 +1,1063 @@
+@import url(//db.onlinewebfonts.com/c/860c3ec7bbc5da3e97233ccecafe512e?family=Circular+Std+Book);
+body{
+    width: 100%;
+    margin: 0px;
+}
+
+
+.first{
+    width: 100%;
+    height: auto;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.22) 7.62%, rgba(0, 225, 198, 0.29) 25.5%, #FFFFFF 70.92%);
+}
+.navbar{
+    width: 90%;
+    height: 119px;
+    margin-right: auto;
+    margin-left:auto;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.logo{
+    margin-top: 10px;;
+    margin-right: 5%; ;
+width: 206px;
+height: 78px;
+}
+.menu{
+    width:407px ;
+        height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding-left: 60px;
+    flex-direction: row;
+align-items: center;
+
+
+}
+.box1{
+    padding-top: 40px;
+margin-left: auto;
+width: 70px;
+height: 40px;
+}
+.box2{
+    padding-top: 40px;
+    padding-left:51px;
+    width: 86px;
+    height: 40px;
+    }
+    .box3{
+        padding-top: 40px;
+        padding-left: 51px;
+        width: 71px;
+        height: 40px;
+        }    
+        .box4{
+            padding-top: 40px;
+
+            padding-left:51px;
+            width: 87px;
+            height: 40px;
+            }
+.text1{
+    font-family: "Circular Std Book";
+    font-style: normal;
+    font-weight: 450;
+    font-size: 18px;
+    line-height: 20px;
+    text-decoration:none;
+    letter-spacing: 0.2px;
+
+    
+    color: #20262A;    
+}
+.button{
+    border: 1px solid #00B6F0;
+    background-color: #FFFFFF;
+box-sizing: border-box;
+border-radius: 85px;
+width: 140px;
+height: 52px;
+}
+.button:active{
+    border: 1px solid #147a9c;
+}
+.xD{
+    padding-top: 25px;
+    margin-left:auto;
+    
+}
+.text2{
+font-family: "Circular Std Book";
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+
+letter-spacing: 0.2px;
+
+
+color: #00B6F0;    
+}
+
+.block1{
+    padding-top: 50px;
+    width: 100%;
+    height: 367px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.textblock1{
+    position: static;
+    width: 510px;
+    height: 176px;
+    left: 386px;
+    top: 39px;
+}
+.text3{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 78px;
+/* or 108% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+/* secondary */
+
+color: #112D57;
+
+}
+.text4{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: 450;
+font-size: 24px;
+line-height: 38px;
+/* or 158% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+/* second text */
+
+color: #5C5C5C;
+}
+
+.text4x{
+    font-family: "Circular Std Book";
+    font-style: normal;
+    font-weight: 450;
+    font-size: 24px;
+    line-height: 38px;
+    /* or 158% */
+    
+    text-align: center;
+    letter-spacing: 0.2px;
+    
+    /* second text */
+    
+    color: #5C5C5C;   
+}
+.textblock2{
+ 
+    width: 544px;
+    height: 96px;
+margin-right: 20%;
+}
+.buttons{
+    position: static;
+    justify-content: center;
+    width: fit-content;
+    margin-top:25px;
+    height: 52px;
+   margin-left: auto;
+   margin-right: auto;
+   display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.button2{
+    width: 192px;
+height: 52px;
+
+
+/* primary */
+margin-left: 3%;
+background: #00B6F0;
+border-radius: 85px;
+border: 1px solid #00B6F0; 
+}
+.button2:active{
+    border: 1px solid #FFFFFF;   
+}
+.button3{
+    width: 194px;
+height: 52px;
+left: 217px;
+top: 0px;
+margin-left:4%;
+margin-right: 3%;
+/* light background */
+
+background: #FFFFFF;
+border-radius: 85px;
+border: 1px solid #FFFFFF; 
+}
+.button3:active{
+    border: 1px solid #00B6F0 ; 
+}
+.text5{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+letter-spacing: 0.2px;
+
+/* light text */
+
+color: #FFFFFF;
+}
+.text6{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+letter-spacing: 0.2px;
+
+/* first text */
+
+color: #20262A;
+}
+
+
+.scr{
+    width: 60%;
+    height: auto;
+    bottom: 52px;
+    margin-left: 20%;
+    margin-right: auto;
+    padding-top: 98px;
+    z-index: 1;;  
+}
+.second{
+    padding-top: 20px;
+    width: 100%;
+    height: auto;
+    background:#FFFFFF;
+}
+.block2{
+    height: auto;
+    width: 80%;
+    margin-top:62px;
+    display: flex;
+    flex-direction: column;
+    margin-left:auto;
+margin-right:auto;
+align-items: center;
+    padding: 0px;
+}
+.textbox3{
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.title{
+    width: 172px;
+    height: 62px;  
+}
+.text7{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: 450;
+font-size: 36px;
+line-height: 42px;
+margin-bottom: 0;
+/* identical to box height, or 117% */
+
+letter-spacing: 0.1px;
+
+/* secondary */
+
+color: #F3CD03;
+}
+.k{
+    position: static;
+left: 1.58%;
+right: 1.58%;
+top: 11.76%;
+bottom: 11.76%;
+}
+.k2{
+    position: static;
+left: 2.18%;
+right: 2.18%;
+top: 10.42%;
+bottom: 10.42%;
+margin-bottom: auto;
+}
+
+.scroll{
+display: none;
+}
+
+.sc{
+    height: 16px;
+width: 26.666664123535156px;
+
+}
+
+.text8{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 65px;
+/* identical to box height, or 116% */
+
+text-align: center;
+letter-spacing: 0.2px;
+margin-bottom: 0;
+
+/* first text */
+
+color: #20262A;
+}
+.text81{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 65px;
+/* identical to box height, or 116% */
+
+text-align: center;
+letter-spacing: 0.2px;
+margin-bottom: 0;
+
+/* first text */
+
+color: #20262A;
+}
+.text8x{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 65px;
+/* identical to box height, or 116% */
+display: none;
+text-align: center;
+letter-spacing: 0.2px;
+margin-bottom: 0;
+
+/* first text */
+
+color: #20262A;
+}
+.text9{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: 450;
+font-size: 24px;
+line-height: 38px;
+/* or 158% */
+
+text-align: center;
+letter-spacing: 0.2px;
+margin-bottom:60px;
+
+/* second text */
+
+color: #5C5C5C;
+}
+
+.buttons2{
+
+position: static;
+justify-content: center;
+align-items: center;
+width: auto;    
+height: auto;
+display: flex;
+flex-direction: row;
+
+margin-top: auto;
+margin-left: auto;
+margin-right:auto;
+}
+.button4{
+    width: 187px;
+    height: 52px;
+    left: 0px;
+    top: 0px; 
+    /* primary */
+    border: 1px solid #00B6F0; 
+    background: #00B6F0 ;
+    border-radius: 85px;
+}
+.button4:active{
+    border: 1px solid #FFFFFF;
+}
+.button5{
+    width: 245px;
+    height: 52px;
+    left: 200px;
+    top: 0px;
+    margin-left: 3%;
+    /* light background */
+    
+    background: #FFFFFF;
+    /* primary */
+    
+    border: 2px solid #00B6F0;
+    box-sizing: border-box;
+    border-radius: 85px;
+}
+.button5:active{
+    border: 1px solid #147a9c;
+}
+.third{
+    margin-top: 50px;
+    padding-top: 50px;
+    width: 100%;
+    height: auto;
+    background-color: #FFFFFF;
+    display: flex;
+flex-direction: row;
+align-items: center;
+
+}
+
+.textblock3{
+    width: auto;
+    height: auto;
+    margin-right:15%;       
+    margin-left: 15%; 
+    
+}
+
+.text10{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: 450;
+font-size: 36px;
+line-height: 42px;
+/* identical to box height, or 117% */
+text-align: justify;
+letter-spacing: 0.1px;
+
+/* first text */
+
+color: #20262A; 
+}
+.text11{
+    font-family: "Circular Std Book";
+    font-style: normal;
+    font-weight: 450;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: justify;
+    margin-bottom: 0;
+    /* or 158% */
+    
+    letter-spacing: 0.2px;
+    
+    /* second text */
+    
+    color: #5C5C5C;
+}
+.text12{
+    font-family: "Circular Std Book";
+font-style: normal;
+font-weight: 450;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+letter-spacing: 0.2px;
+
+/* primary */
+
+color: #00B6F0;
+}
+.image3{
+    width: auto;
+    height: auto;
+    margin-right:auto;
+}
+
+.image1{
+    width: auto;
+height: auto;
+margin-right: 5%;
+}
+.image1x{
+    width: auto;
+height: auto;
+margin-left:10%;
+margin-right: auto;
+}
+.text11x{
+    font-family: "Circular Std Book";
+    font-style: normal;
+    font-weight: 450;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: justify;
+    margin-top: 0;
+    /* or 158% */
+    
+    letter-spacing: 0.2px;
+    
+    /* second text */
+    
+    color: #5C5C5C;   
+}
+.textjk{
+    display: none;
+    font-family: "Circular Std Book";
+    font-style: normal;
+    font-weight: 450;
+    font-size: 36px;
+    line-height: 42px;
+    /* identical to box height, or 117% */
+    text-align: justify;
+    letter-spacing: 0.1px;
+    
+    /* first text */
+    
+    color: #20262A; 
+}
+
+.forth{
+    margin-top: 50px;
+    padding-top: 50px;
+    width: 100%;
+    height: auto;
+    background-color: #FFFFFF;
+    display: flex;
+flex-direction: row;
+align-items: center;
+
+}
+
+.text1xx{
+    display:none;
+    font-family: "Circular Std Book";
+    font-style: normal;
+    font-weight: 450;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+    margin-top: 0;
+    /* or 158% */
+    
+    letter-spacing: 0.2px;
+    
+    /* second text */
+    
+    color: #5C5C5C;   
+}
+
+
+.fifth{
+    width: 100%;
+    height: auto;
+    background-color: #FFFFFF;
+}
+.content{
+    width: 60%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+.textcontent{
+    width: auto;
+    height: auto;
+}
+.text20{
+    font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 450;
+font-size: 19px;
+line-height: 30px;
+/* or 158% */
+text-align: center;
+letter-spacing: 0.2px;
+
+/* second text */
+
+color: #5C5C5C;
+}
+
+
+.progressbar{
+    background: #00B6F0;
+border-radius: 9.5px;
+}
+.buttons3{
+margin-right: auto;
+margin-left: auto;
+justify-content: center;
+    width: fit-content;
+    display:block;
+}
+.buttons3x{
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+        width: fit-content;
+        display:block;
+        margin-bottom: 108px;
+    }
+    
+
+.sixth{
+    width: 100%;
+    height: auto;
+    background-color: #FFFFFF;
+    margin-top:100px;
+}
+
+
+.frame{
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+.text21{
+    font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 450;
+font-size: 36px;
+line-height: 42px;
+/* identical to box height, or 117% */
+text-align: center;
+letter-spacing: 0.1px;
+
+/* first text */
+
+color: #20262A;
+}
+.image4{
+    align-items: center;
+    width: fit-content;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.randomtext1{
+    margin-top: 5%;
+    align-items: center;
+}
+
+.text201{
+    font-family: 'Circular Std Book';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 19px;
+    line-height: 30px;
+    /* or 158% */
+    text-align: center;
+    letter-spacing: 0.2px;
+    
+    /* second text */
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #5C5C5C;
+}
+.blocky{
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.image5{
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.randomtext2{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: auto;
+}
+.text22{
+    font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 450;
+font-size: 18px;
+line-height: 20px;
+margin-bottom: 0;
+/* identical to box height, or 111% */
+
+letter-spacing: 0.2px;
+
+/* first text */
+
+color: #20262A;
+}
+.text23{
+    /* Subtitle */
+margin-top: 0;
+font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 450;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+letter-spacing: 0.1px;
+
+/* second text */
+
+color: #5C5C5C;
+}
+
+.seventh{
+    background: #182333;
+    width: 100%;
+    height: auto;
+}
+.text24{
+    font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 65px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+text-align: left;
+width: fit-content;
+}
+.text25{
+    font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 450;
+font-size: 19px;
+line-height: 30px;
+/* or 158% */
+margin-right: 12%;
+letter-spacing: 0.2px;
+text-align: left;
+/* light text */
+
+color: #FFFFFF;
+}
+
+.textblock4{
+width: 20%;
+
+}
+.textblock5{
+    width: 40%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.text26{
+    font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 450;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+margin-bottom: 0;
+margin-top: 60px;
+letter-spacing: 0.1px;
+
+/* light text */
+
+color: #FFFFFF;
+}
+.randombox{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.text27{
+    font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 78px;
+margin-right: 10px;
+letter-spacing: 0.2px;
+margin-bottom: 0;
+margin-top: 10px;
+color: #F3CD03;
+}
+.text28{
+    font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 450;
+font-size: 24px;
+line-height: 38px;
+/* or 158% */
+
+letter-spacing: 0.2px;
+margin-top: 0;
+margin-bottom: 0;
+/* light text */
+
+color: #FFFFFF;
+}
+.text29{
+    font-family: 'Circular Std Book';
+font-style: normal;
+font-weight: 450;
+font-size: 19px;
+line-height: 30px;
+/* or 158% */
+margin-top: 0;
+letter-spacing: 0.2px;
+
+/* light text */
+
+color: #FFFFFF;
+}
+.buttons4{
+width: fit-content;
+height: auto;
+}
+.bigtextbox{
+    margin-left: auto;
+    width: 80%;
+    margin-right: auto;
+    height: auto;
+    display: flex;
+  flex-direction: row;
+
+}
+.button4x{
+    width: 187px;
+    height: 52px;
+    left: 0px;
+    top: 0px; 
+    /* primary */
+    border: 1px solid #00B6F0; 
+    background: #00B6F0 ;
+    border-radius: 85px;
+    margin-bottom: 70px;
+}
+.button4x:active{
+    border: 1px solid #FFFFFF;
+}
+
+@media screen and (max-width:1379px){
+    .textblock3{    
+        margin-right: 8%;
+        margin-left: 8%;
+    }
+}
+
+@media screen and (max-width: 1104px) {
+    .scroll{
+        display:block;
+        padding-top:50px ;
+        padding-left: 3%;
+        margin-right:5%;
+    }
+
+    .button4x{
+        margin-right: auto;
+        margin-left: auto;
+        align-items: center;
+    }
+    .buttons4{
+        margin-left: auto;
+        margin-right: auto;
+    }
+   .text81{
+display: none;
+   }
+   .text8x{
+       display: block;
+   }
+    .menu{
+       display:none;
+   }
+   .text4x{
+       display: none;
+   }
+
+   .text24{
+       text-align: center;
+       margin-left: auto;
+       margin-right: auto;
+   }
+.text25{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+   .text10{
+       
+display:none
+   }
+   .textjk{
+       display:block ;
+       align-items: center;
+       text-align: center;
+   }
+   .text11{
+       
+text-align: center;
+   }
+   .text11x{
+       
+       display: none;
+       
+   }
+   .textbox5{
+   align-items: center;    
+   
+   }
+.text12{
+    
+text-align: center; 
+}
+.text26{
+text-align: center;
+}
+.randombox{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text1xx{
+    display:flex;
+}
+
+   .textblock3{
+    width: 60%;
+    height: auto;
+    margin-right:auto;       
+    margin-left: auto; 
+    
+}
+
+.third{
+    flex-direction: column-reverse;
+    justify-content: center;
+align-items: center;
+}
+.forth{
+    flex-direction: column;
+    justify-content: center;
+align-items: center;
+}    
+.image1{
+    width: 60%;
+    height: 100%;
+    margin-left: 20%;
+    margin-right: auto;
+}
+.image1x{
+    width: 60%;
+    height: 100%;
+    margin-left: 20%;
+    margin-right: auto;
+}
+
+.buttons{
+    margin-top: 20px;
+   }
+   .xD{
+   margin-right: 0;
+   }
+   .logo{
+       margin-right:0;
+   }
+   .text3{
+       font-family: 'Circular Std Book';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 56px;
+   line-height: 65px;
+   /* or 116% */
+   
+   text-align: center;
+   letter-spacing: 0.2px;
+   
+   /* secondary */
+   
+   color: #112D57;
+   }
+   .bigtextbox{
+    flex-direction: column;
+align-items: center;
+}
+
+
+
+    }
+
+
+
+
+
+
+@media screen and (max-width: 550px) {
+.buttons2{
+flex-direction: column;
+align-items: center ;
+
+}
+   
+ .button2{
+     margin-right: auto;
+     margin-left: auto; 
+ }
+ .button3{
+    margin-right: auto;
+    margin-left: auto;
+}
+.button4{
+    width:245px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.button5{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+}
