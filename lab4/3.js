@@ -8,7 +8,27 @@
  */
 
 function rle(str) {
-    //code here
+    count=1
+    t=""
+
+
+    for(i=0;i<str.length;i++){
+        if (count==1){
+            t+=str[i]
+        }
+    
+    if (str[i]==str[i+1]){
+    ++count
+}else
+    {
+        if (count!=1){
+        t+=`${count}`;
+        count=1
+        }
+    }
+
+}
+return t;
 }
 
 module.exports = rle;
