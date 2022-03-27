@@ -10,8 +10,34 @@
  * [(<>)] --> true
  */
 
+
+
 function checkBrackets(str) {
-    //code here
+    k=[]
+    z=0
+    for(i=0;i<str.length;i++){
+if ((str[i]=='[')||(str[i]=='(')||(str[i]=='<')){
+    if(str[i]=='['){
+    k[z]=']'
+    ++z 
+    }
+    if(str[i]=='('){
+        k[z]=')'
+        ++z 
+        }
+        if(str[i]=='<'){
+            k[z]='>'
+            ++z 
+            }
+}else{
+if (!(k[k.length-1]==str[i])){
+return false
+}else{
+    k.pop()
+}
+}
+}
+return true
 }
 
 module.exports = checkBrackets;
